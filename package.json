@@ -2,8 +2,8 @@
 	"name": "ecommerce-website",
 	"version": "1.0.0",
 	"main": "server.js",
-	"repository": "https://github.com/andrev36/ecommerce-website.git",
-	"author": "andrev36 <wiadernyandrzej96@gmail.com>",
+	"repository": "https://github.com/awiaderny/ecommerce-website.git",
+	"author": "awiaderny <wiadernyandrzej96@gmail.com>",
 	"license": "MIT",
 	"scripts": {
 		"server": "nodemon --watch --inspect server.js",
