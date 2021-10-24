@@ -37,10 +37,10 @@ start" or "yarn start". Only code preview is available.
 - [package.json (explore libraries used in project)](https://github.com/awiaderny/ecommerce-pub/blob/master/client/package.json)
 - [Index page (explore used libraries and utilities)](https://github.com/awiaderny/ecommerce-pub/blob/master/client/src/index.tsx)
 - [Routes file (explore project structure)](https://github.com/awiaderny/ecommerce-pub/blob/master/client/src/Routes.tsx)
-- [Cart component (React)](https://github.com/awiaderny/ecommerce-pub/blob/767f8eecb7d2d135c51a10225db4cd7ae284fa18/client/src/components/cart/Cart.tsx)
-- [Product grid component (React)](https://github.com/awiaderny/ecommerce-pub/blob/767f8eecb7/client/src/components/products/ProductGrid.tsx)
-- [Single product view component (React)](https://github.com/awiaderny/ecommerce-pub/blob/767f8eecb7/client/src/components/products/ProductDetail.tsx)
-- [Contact form (Formik library - React)](https://github.com/awiaderny/ecommerce-pub/blob/767f8eecb7/client/src/components/forms/ContactForm.tsx)
+- [Cart component (React)](https://github.com/awiaderny/ecommerce-pub/blob/master/client/src/components/cart/Cart.tsx)
+- [Product grid component (React)](https://github.com/awiaderny/ecommerce-pub/blob/master/client/src/components/products/ProductGrid.tsx)
+- [Single product view component (React)](https://github.com/awiaderny/ecommerce-pub/blob/master/client/src/components/products/ProductDetail.tsx)
+- [Contact form (Formik library - React)](https://github.com/awiaderny/ecommerce-pub/blob/master/client/src/components/forms/ContactForm.tsx)
 - [Redux store configuration (explore Redux file structure and used libraries)](https://github.com/awiaderny/ecommerce-pub/blob/master/client/src/configureStore.ts)
 - [Cart reducer (Redux - state management)](https://github.com/awiaderny/ecommerce-pub/blob/master/client/src/reducers/cart.reducer.ts)
 
@@ -49,11 +49,11 @@ start" or "yarn start". Only code preview is available.
 - [package.json (explore libraries used in project, nodemon configuration)](https://github.com/awiaderny/ecommerce-pub/blob/master/package.json)
 - [server.js - main entry file for Node (express) Backend](https://github.com/awiaderny/ecommerce-pub/blob/master/server.js)
 - [Folder with public assets (fetched from Backend to Frontend product grid)](https://github.com/awiaderny/ecommerce-pub/tree/master/public/products)
-- [Database configuration file (MongoDB Atlas - database in cloud)](https://github.com/awiaderny/ecommerce-pub/blob/767f8eecb7/api/config/db.js)
-- [Sending products information via REST API (controller with pagination on server-side)](https://github.com/awiaderny/ecommerce-pub/blob/767f8eecb7/api/controllers/products.controller.js)
-- [Register, login functionality in express controller](https://github.com/awiaderny/ecommerce-pub/blob/767f8eecb7/api/controllers/user.controller.js)
-- [Express routes for user login, logout and checking if a user is logged in](https://github.com/awiaderny/ecommerce-pub/blob/767f8eecb7/api/routes/session.route.js)
-- [User model (mongoose library schema for MongoDB database)](https://github.com/awiaderny/ecommerce-pub/blob/767f8eecb7/api/models/user.model.js)
+- [Database configuration file (MongoDB Atlas - database in cloud)](https://github.com/awiaderny/ecommerce-pub/blob/master/api/config/db.js)
+- [Sending products information via REST API (controller with pagination on server-side)](https://github.com/awiaderny/ecommerce-pub/blob/master/api/controllers/products.controller.js)
+- [Register, login functionality in express controller](https://github.com/awiaderny/ecommerce-pub/blob/master/api/controllers/user.controller.js)
+- [Express routes for user login, logout and checking if a user is logged in](https://github.com/awiaderny/ecommerce-pub/blob/master/api/routes/session.route.js)
+- [User model (mongoose library schema for MongoDB database)](https://github.com/awiaderny/ecommerce-pub/blob/master/api/models/user.model.js)
 
 <section
   style={{
