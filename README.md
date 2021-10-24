@@ -5,7 +5,7 @@
 No preview in the development environment is available via "npm
 start" or "yarn start". Only code preview is available.
 
-## [View website live demo here](https://www.ecommercedevandrew.tech/)
+## [View website live demo here](https://ecommerce-website36.herokuapp.com/)
 
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/> </a>
